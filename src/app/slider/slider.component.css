@@ -1,0 +1,10 @@
+.mini{
+    width: 100%;
+    height: 100%;
+    border: 1px solid silver;
+}
+
+.minbox{
+    width: 260px;
+    margin: 5px;
+}
